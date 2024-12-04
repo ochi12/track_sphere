@@ -1,0 +1,6 @@
+[submodule "track_sphere-end_device"]
+	path = track_sphere-end_device
+	url = https://github.com/ochi12/track_sphere-end_device.git
+[submodule "track_sphere-application"]
+	path = track_sphere-application
+	url = https://github.com/ochi12/track_sphere-application.git
